@@ -9,6 +9,10 @@ To install the patch, simply download the file labeled `0.txt` and place it in t
 
 ## Changelog
 
+### 0.1.1
+
+Fixed an issue where the first textbox would crash the game since the game uses a different first textbox for first launch.
+
 ### 0.1.0 - "Taikutsugoroshi-hen"
 
 This patch covers the prologue, up to when
